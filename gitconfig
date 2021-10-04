@@ -49,3 +49,6 @@
 
 [pull]
   rebase = false
+[user]
+	email = lakshayg@gmail.com
+	name = Lamo G
